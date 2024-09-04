@@ -2,14 +2,12 @@
 
 > you can go back to my profile [here](https://github.com/vtr-delfino).
 
-Here you will find the Dashboards i've done on Power BI, I made only one repository because I will, probably, make a lot of dashboards. I'll keep updating this repository, so keep an eye out!
-
-If you click on the dashboard image, it will open on Power BI Service so you can tinker with the filters and pages.
-
 > If you click on the top right icon it will bring up an index.
 > ![image](https://github.com/user-attachments/assets/1c09c9de-482e-43aa-af64-ece13ffab535) ![image](https://github.com/user-attachments/assets/fb9c5e17-b3b3-45ad-9aa2-14b475f707fb)
 
+Here you will find the Dashboards i've done on Power BI, I made only one repository because I will, probably, make a lot of dashboards. I'll keep updating this repository, so keep an eye out!
 
+If you click on the dashboard image, it will open on Power BI Service so you can tinker with the filters and pages.
 
 ## Finance
 
