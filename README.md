@@ -9,6 +9,8 @@ Here you will find the Dashboards i've done on Power BI, I made only one reposit
 
 If you click on the dashboard image, it will open on Power BI Service so you can tinker with the filters and pages.
 
+Some of the Dashboards is still a work in progress, so if you see one that's kinda missing "some spark", I still working on it.
+
 ## Finance
 
 <div align="left">
