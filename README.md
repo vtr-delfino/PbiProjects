@@ -28,3 +28,19 @@ If you click on the dashboard image, it will open on Power BI Service so you can
     <img src="https://github.com/user-attachments/assets/19bb53a9-b575-4551-9306-9e4d65e2e455" width="40%" alt="Printscreen of the dashboard" />
     </a>
 </div>
+
+## Comercial
+
+<div align="left">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMmQ1MjhlZDEtZGExZi00YWRhLTgzNWItOTNjMTBjZmFiZjMzIiwidCI6IjM5MjAwMGI5LTc0OWYtNDYxOS05NDUxLWUwY2FjMDc0ZmYyOSJ9" target="_blank">
+    <img src="https://github.com/user-attachments/assets/18386149-5421-4ac3-956a-978147d02738" width="40%" alt="Printscreen of the dashboard" />
+    </a>
+</div>
+
+## Logistics
+
+<div align="left">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWU0OTUzZTEtMTJiYS00ZjdlLTg2ZWUtNzMyYWY4OWFiMTlhIiwidCI6IjM5MjAwMGI5LTc0OWYtNDYxOS05NDUxLWUwY2FjMDc0ZmYyOSJ9" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fb29588c-ad14-4342-be78-815f94c38e9a" width="40%" alt="Printscreen of the dashboard" />
+    </a>
+</div>
