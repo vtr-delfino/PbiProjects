@@ -19,7 +19,7 @@ Some of the Dashboards is still a work in progress, so if you see one that's kin
     </a>
 
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMzFkMmNlYTMtMWViNS00MDg5LThjZWItODc1ZTliMWEwMmNjIiwidCI6IjM5MjAwMGI5LTc0OWYtNDYxOS05NDUxLWUwY2FjMDc0ZmYyOSJ9" target="_blank">
-    <img src="https://github.com/user-attachments/assets/7568f317-46f2-472b-a560-d4f83782b948" width="40%" align="right" alt="Printscreen of the dashboard" />
+    <img src="https://github.com/user-attachments/assets/bb94a07b-b399-4d09-873e-ee35154f28e6" width="40%" align="right" alt="Printscreen of the dashboard" />
     </a>
 </div>
 
